@@ -1,0 +1,29 @@
+.bg-color{
+    background-image:linear-gradient(to bottom, #50ebdb,#dd40e6);
+    height:100vh;
+    text-align:center;
+  
+    
+}
+.heading{
+    color:black;
+    font-weight:bold;
+ 
+    
+}
+.text-area{
+    width:250px;
+    height:45px;
+    border-top-left-radius:5px;
+    border-bottom-left-radius:5px;
+    border-width:0px;
+}
+.bttn{
+    color:white;
+    background-color:#ed764e;
+    border-width:0px;
+    border-top-right-radius:5px;
+    border-bottom-right-radius:5px;
+    height:45px;
+    width:75px;
+}
